@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<codes>
+  <condition>
+    <code>395</code>
+    <description>Moderate or heavy snow in area with thunder</description>
+    <day_icon>t_storms.png</day_icon>
+    <night_icon>t_storms.png</night_icon>
+  </condition>
+  <condition>
+    <code>392</code>
+    <description>Patchy light snow in area with thunder</description>
+    <day_icon>t_storms.png</day_icon>
+    <night_icon>t_storms.png</night_icon>
+  </condition>
+  <condition>
+    <code>389</code>
+    <description>Moderate or heavy rain in area with thunder</description>
+    <day_icon>t_storms.png</day_icon>
+    <night_icon>t_storms.png</night_icon>
+  </condition>
+  <condition>
+    <code>386</code>
+    <description>Patchy light rain in area with thunder</description>
+    <day_icon>mostly_cloudy_with_t_storms.png</day_icon>
+    <night_icon>mostly_cloudy_with_t_storms_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>377</code>
+    <description>Moderate or heavy showers of ice pellets</description>
+    <day_icon>ice.png</day_icon>
+    <night_icon>ice.png</night_icon>
+  </condition>
+  <condition>
+    <code>374</code>
+    <description>Light showers of ice pellets</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>371</code>
+    <description>Moderate or heavy snow showers</description>
+    <day_icon>snow.png</day_icon>
+    <night_icon>snow.png</night_icon>
+  </condition>
+  <condition>
+    <code>368</code>
+    <description>Light snow showers</description>
+    <day_icon>snow.png</day_icon>
+    <night_icon>snow.png</night_icon>
+  </condition>
+  <condition>
+    <code>365</code>
+    <description>Moderate or heavy sleet showers</description>
+    <day_icon>freezing_rain.png</day_icon>
+    <night_icon>freezing_rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>362</code>
+    <description>Light sleet showers</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>359</code>
+    <description>Torrential rain shower</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>356</code>
+    <description>Moderate or heavy rain shower</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>353</code>
+    <description>Light rain shower</description>
+    <day_icon>showers.png</day_icon>
+    <night_icon>showers.png</night_icon>
+  </condition>
+  <condition>
+    <code>350</code>
+    <description>Ice pellets</description>
+    <day_icon>ice.png</day_icon>
+    <night_icon>ice.png</night_icon>
+  </condition>
+  <condition>
+    <code>338</code>
+    <description>Heavy snow</description>
+    <day_icon>flurries.png</day_icon>
+    <night_icon>flurries.png</night_icon>
+  </condition>
+  <condition>
+    <code>335</code>
+    <description>Patchy heavy snow</description>
+    <day_icon>mostly_cloudy_with_flurries.png</day_icon>
+    <night_icon>mostly_cloudy_with_flurries_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>332</code>
+    <description>Moderate snow</description>
+    <day_icon>snow.png</day_icon>
+    <night_icon>snow.png</night_icon>
+  </condition>
+  <condition>
+    <code>329</code>
+    <description>Patchy moderate snow</description>
+    <day_icon>mostly_cloudy_with_snow.png</day_icon>
+    <night_icon>mostly_cloudy_with_snow_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>326</code>
+    <description>Light snow</description>
+    <day_icon>snow.png</day_icon>
+    <night_icon>snow.png</night_icon>
+  </condition>
+  <condition>
+    <code>323</code>
+    <description>Patchy light snow</description>
+    <day_icon>mostly_cloudy_with_snow.png</day_icon>
+    <night_icon>mostly_cloudy_with_snow_night.png</night_icon>
+    </condition>
+  <condition>
+    <code>320</code>
+    <description>Moderate or heavy sleet</description>
+    <day_icon>freezing_rain.png</day_icon>
+    <night_icon>freezing_rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>317</code>
+    <description>Light sleet</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>314</code>
+    <description>Moderate or Heavy freezing rain</description>
+    <day_icon>freezing_rain.png</day_icon>
+    <night_icon>freezing_rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>311</code>
+    <description>Light freezing rain</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>308</code>
+    <description>Heavy rain</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>305</code>
+    <description>Heavy rain at times</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>302</code>
+    <description>Moderate rain</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>299</code>
+    <description>Moderate rain at times</description>
+    <day_icon>rain.png</day_icon>
+    <night_icon>rain.png</night_icon>
+  </condition>
+  <condition>
+    <code>296</code>
+    <description>Light rain</description>
+    <day_icon>showers.png</day_icon>
+    <night_icon>showers.png</night_icon>
+    </condition>
+  <condition>
+    <code>293</code>
+    <description>Patchy light rain</description>
+    <day_icon>partly_sunny_with_showers.png</day_icon>
+    <night_icon>partly_cloudy_with_showers_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>284</code>
+    <description>Heavy freezing drizzle</description>
+    <day_icon>freezing_rain.png</day_icon>
+    <night_icon>freezing_rain.png</night_icon>
+    </condition>
+  <condition>
+    <code>281</code>
+    <description>Freezing drizzle</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>266</code>
+    <description>Light drizzle</description>
+    <day_icon>partly_sunny_with_showers.png</day_icon>
+    <night_icon>partly_cloudy_with_showers_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>263</code>
+    <description>Patchy light drizzle</description>
+    <day_icon>partly_sunny_with_showers.png</day_icon>
+    <night_icon>partly_cloudy_with_showers_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>260</code>
+    <description>Freezing fog</description>
+    <day_icon>fog.png</day_icon>
+    <night_icon>fog.png</night_icon>
+  </condition>
+  <condition>
+    <code>248</code>
+    <description>Fog</description>
+    <day_icon>fog.png</day_icon>
+    <night_icon>fog.png</night_icon>
+  </condition>
+  <condition>
+    <code>230</code>
+    <description>Blizzard</description>
+    <day_icon>snow.png</day_icon>
+    <night_icon>snow.png</night_icon>
+  </condition>
+  <condition>
+    <code>227</code>
+    <description>Blowing snow</description>
+    <day_icon>mostly_cloudy_with_snow.png</day_icon>
+    <night_icon>mostly_cloudy_with_snow_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>200</code>
+    <description>Thundery outbreaks in nearby</description>
+    <day_icon>t_storms.png</day_icon>
+    <night_icon>t_storms.png</night_icon>
+  </condition>
+  <condition>
+    <code>185</code>
+    <description>Patchy freezing drizzle nearby</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>182</code>
+    <description>Patchy sleet nearby</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>179</code>
+    <description>Patchy snow nearby</description>
+    <day_icon>sleet.png</day_icon>
+    <night_icon>sleet.png</night_icon>
+  </condition>
+  <condition>
+    <code>176</code>
+    <description>Patchy rain nearby</description>
+    <day_icon>showers.png</day_icon>
+    <night_icon>showers.png</night_icon>
+  </condition>
+  <condition>
+    <code>143</code>
+    <description>Mist</description>
+    <day_icon>fog.png</day_icon>
+    <night_icon>fog.png</night_icon>
+    </condition>
+  <condition>
+    <code>122</code>
+    <description>Overcast</description>
+    <day_icon>dreary_overcast.png</day_icon>
+    <night_icon>dreary_overcast.png</night_icon>
+  </condition>
+  <condition>
+    <code>119</code>
+    <description>Cloudy</description>
+    <day_icon>cloudy.png</day_icon>
+    <night_icon>cloudy.png</night_icon>
+  </condition>
+  <condition>
+    <code>116</code>
+    <description>Partly Cloudy</description>
+    <day_icon>mostly_sunny.png</day_icon>
+    <night_icon>mostly_clear_night.png</night_icon>
+  </condition>
+  <condition>
+    <code>113</code>
+    <description>Clear/Sunny</description>
+    <day_icon>sunny.png</day_icon>
+    <night_icon>clear_night.png</night_icon>
+  </condition>
+</codes>
